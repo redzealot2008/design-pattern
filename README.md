@@ -1,7 +1,11 @@
 # 设计模式
 
-[【中介者模式】](https://juejin.im/post/5a72c05951882522b552ad3b)   
-[【装饰模式】](https://juejin.im/post/5a0ac687f265da432d279e20)  
+[【中介者模式】](https://juejin.im/post/5a72c05951882522b552ad3b)
+
+## 装饰模式
+[【装饰模式】](https://juejin.im/post/5a0ac687f265da432d279e20)
+[【java模式—装饰者模式】](https://www.cnblogs.com/chenxing818/p/4705919.html)
+
 [【责任链模式】](https://juejin.im/post/5a4b44dff265da43294e6ab3)
 
 # 鸣谢
